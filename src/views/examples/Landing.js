@@ -148,7 +148,7 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            laith hussein 
                           </h6>
                           <p className="description mt-3">
                             Argon is a great free UI package based on Bootstrap
